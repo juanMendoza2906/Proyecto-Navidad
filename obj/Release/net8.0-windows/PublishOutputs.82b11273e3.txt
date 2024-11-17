@@ -1,0 +1,5 @@
+C:\Users\Juan Pablo\Desktop\Navidad.exe
+C:\Users\Juan Pablo\Desktop\Navidad.dll
+C:\Users\Juan Pablo\Desktop\Navidad.deps.json
+C:\Users\Juan Pablo\Desktop\Navidad.runtimeconfig.json
+C:\Users\Juan Pablo\Desktop\Navidad.pdb

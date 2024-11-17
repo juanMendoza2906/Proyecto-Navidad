@@ -1,0 +1,84 @@
+C:\Users\luisg\Documents\Programacion\Codigos C#\Navidad\Navidad\bin\Debug\net8.0-windows\Navidad.exe
+C:\Users\luisg\Documents\Programacion\Codigos C#\Navidad\Navidad\bin\Debug\net8.0-windows\Navidad.deps.json
+C:\Users\luisg\Documents\Programacion\Codigos C#\Navidad\Navidad\bin\Debug\net8.0-windows\Navidad.runtimeconfig.json
+C:\Users\luisg\Documents\Programacion\Codigos C#\Navidad\Navidad\bin\Debug\net8.0-windows\Navidad.dll
+C:\Users\luisg\Documents\Programacion\Codigos C#\Navidad\Navidad\bin\Debug\net8.0-windows\Navidad.pdb
+C:\Users\luisg\Documents\Programacion\Codigos C#\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.Form1.resources
+C:\Users\luisg\Documents\Programacion\Codigos C#\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.Properties.Resources.resources
+C:\Users\luisg\Documents\Programacion\Codigos C#\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.csproj.GenerateResource.cache
+C:\Users\luisg\Documents\Programacion\Codigos C#\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisg\Documents\Programacion\Codigos C#\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.AssemblyInfoInputs.cache
+C:\Users\luisg\Documents\Programacion\Codigos C#\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.AssemblyInfo.cs
+C:\Users\luisg\Documents\Programacion\Codigos C#\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.csproj.CoreCompileInputs.cache
+C:\Users\luisg\Documents\Programacion\Codigos C#\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.dll
+C:\Users\luisg\Documents\Programacion\Codigos C#\Navidad\Navidad\obj\Debug\net8.0-windows\refint\Navidad.dll
+C:\Users\luisg\Documents\Programacion\Codigos C#\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.pdb
+C:\Users\luisg\Documents\Programacion\Codigos C#\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.genruntimeconfig.cache
+C:\Users\luisg\Documents\Programacion\Codigos C#\Navidad\Navidad\obj\Debug\net8.0-windows\ref\Navidad.dll
+E:\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.dll
+E:\Navidad\Navidad\obj\Debug\net8.0-windows\refint\Navidad.dll
+E:\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.pdb
+C:\Users\Juan Pablo\Documents\Documentos Programación\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.dll
+C:\Users\Juan Pablo\Documents\Documentos Programación\Navidad\Navidad\obj\Debug\net8.0-windows\refint\Navidad.dll
+C:\Users\Juan Pablo\Documents\Documentos Programación\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.pdb
+C:\Users\Juan Pablo\Documents\Documentos Programación\Navidad\Navidad\bin\Debug\net8.0-windows\Navidad.exe
+C:\Users\Juan Pablo\Documents\Documentos Programación\Navidad\Navidad\bin\Debug\net8.0-windows\Navidad.deps.json
+C:\Users\Juan Pablo\Documents\Documentos Programación\Navidad\Navidad\bin\Debug\net8.0-windows\Navidad.runtimeconfig.json
+C:\Users\Juan Pablo\Documents\Documentos Programación\Navidad\Navidad\bin\Debug\net8.0-windows\Navidad.dll
+C:\Users\Juan Pablo\Documents\Documentos Programación\Navidad\Navidad\bin\Debug\net8.0-windows\Navidad.pdb
+C:\Users\Juan Pablo\Documents\Documentos Programación\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.Form1.resources
+C:\Users\Juan Pablo\Documents\Documentos Programación\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.frmInterior.resources
+C:\Users\Juan Pablo\Documents\Documentos Programación\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.Properties.Resources.resources
+C:\Users\Juan Pablo\Documents\Documentos Programación\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.csproj.GenerateResource.cache
+C:\Users\Juan Pablo\Documents\Documentos Programación\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Pablo\Documents\Documentos Programación\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.AssemblyInfoInputs.cache
+C:\Users\Juan Pablo\Documents\Documentos Programación\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.AssemblyInfo.cs
+C:\Users\Juan Pablo\Documents\Documentos Programación\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.csproj.CoreCompileInputs.cache
+C:\Users\Juan Pablo\Documents\Documentos Programación\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.genruntimeconfig.cache
+C:\Users\Juan Pablo\Documents\Documentos Programación\Navidad\Navidad\obj\Debug\net8.0-windows\ref\Navidad.dll
+C:\Users\DELL\Desktop\Navidad\Navidad\bin\Debug\net8.0-windows\Navidad.exe
+C:\Users\DELL\Desktop\Navidad\Navidad\bin\Debug\net8.0-windows\Navidad.deps.json
+C:\Users\DELL\Desktop\Navidad\Navidad\bin\Debug\net8.0-windows\Navidad.runtimeconfig.json
+C:\Users\DELL\Desktop\Navidad\Navidad\bin\Debug\net8.0-windows\Navidad.dll
+C:\Users\DELL\Desktop\Navidad\Navidad\bin\Debug\net8.0-windows\Navidad.pdb
+C:\Users\DELL\Desktop\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.Form1.resources
+C:\Users\DELL\Desktop\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.frmInterior.resources
+C:\Users\DELL\Desktop\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.Properties.Resources.resources
+C:\Users\DELL\Desktop\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.dll
+C:\Users\DELL\Desktop\Navidad\Navidad\obj\Debug\net8.0-windows\refint\Navidad.dll
+C:\Users\DELL\Desktop\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.pdb
+C:\Users\DELL\Desktop\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Navidad\Navidad\obj\Debug\net8.0-windows\ref\Navidad.dll
+C:\Users\DELL\Desktop\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.frmRegaloHomero.resources
+C:\Users\DELL\Desktop\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.frmRegaloBart.resources
+C:\Users\DELL\Desktop\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.frmRegaloLisa.resources
+C:\Users\DELL\Desktop\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.frmRegaloMaggie.resources
+C:\Users\DELL\Desktop\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.frmRegaloMarch.resources
+C:\Users\DELL\Desktop\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.frmDespedida25.resources
+E:\Navidad\Navidad\bin\Debug\net8.0-windows\Navidad.exe
+E:\Navidad\Navidad\bin\Debug\net8.0-windows\Navidad.deps.json
+E:\Navidad\Navidad\bin\Debug\net8.0-windows\Navidad.runtimeconfig.json
+E:\Navidad\Navidad\bin\Debug\net8.0-windows\Navidad.dll
+E:\Navidad\Navidad\bin\Debug\net8.0-windows\Navidad.pdb
+E:\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.Form1.resources
+E:\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.frmDespedida25.resources
+E:\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.frmInterior.resources
+E:\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.frmRegaloBart.resources
+E:\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.frmRegaloHomero.resources
+E:\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.frmRegaloLisa.resources
+E:\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.frmRegaloMaggie.resources
+E:\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.frmRegaloMarch.resources
+E:\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.Properties.Resources.resources
+E:\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.csproj.GenerateResource.cache
+E:\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.GeneratedMSBuildEditorConfig.editorconfig
+E:\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.AssemblyInfoInputs.cache
+E:\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.AssemblyInfo.cs
+E:\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.csproj.CoreCompileInputs.cache
+E:\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.genruntimeconfig.cache
+E:\Navidad\Navidad\obj\Debug\net8.0-windows\ref\Navidad.dll
+E:\Navidad\Navidad\obj\Debug\net8.0-windows\Navidad.frmBienvenida.resources
